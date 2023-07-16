@@ -16,7 +16,7 @@ export const ScatterPlotChart = ({ dataSet, height, width }) => {
             "Nauru", "Northern Mariana Islands", "Palau", "American Samoa", "Cook Islands", "French Polynesia",
             "Niue", "Samoa", "Tokelau", "Tonga", "Tuvalu", "Wallis and Futuna Islands", "India", "Bangladesh",
             "Indonesia", "Philippines", "Vietnam", "Viet Nam", "Pakistan", "Afghanistan", "Myanmar", "Thailand",
-            "Nepal", "Maldives", "Malaysia", "Sri lanka"
+            "Nepal", "Maldives", "Malaysia", "Sri Lanka"
         ];
 
         const america = [
