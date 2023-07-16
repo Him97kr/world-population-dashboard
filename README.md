@@ -2,7 +2,7 @@
 
 ## About this project
 
-The purpose of this project is to display interactive chart taking data from provided CSV file.
+The purpose of this project is to display interactive chart taking data from provided CSV file. It shows data present in CSV into Line chart and Scatter plot chart.
 
 This project uses:
 
