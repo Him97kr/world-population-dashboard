@@ -100,10 +100,13 @@ world-population-dashboard/
 
 ---
 
-## 🔮 Future Improvements
+## 🔗 Related Projects
 
-- [ ] Add more chart types (Bar, Choropleth Map)
-- [ ] Add country search/filter functionality
+| Project | Description |
+|---|---|
+| [GeoQuery](https://github.com/Him97kr/geoquery) | GraphQL API built with Go — serves country demographics, COVID-19 stats and WHO disease outbreak alerts. No API key needed. |
+| [GeoVitals](https://github.com/Him97kr/chrome-extension-geovitals) | Chrome extension that detects country names on any webpage and shows population, COVID-19 stats and WHO outbreak alerts on hover. |
+| [Geoquery Dashboard](https://github.com/Him97kr/geoquery-dashboard) | React + Redux + D3.js dashboard consuming the GeoQuery GraphQL API — choropleth map, treemap, bubble chart, bar charts and country explorer. |
 
 ---
 
