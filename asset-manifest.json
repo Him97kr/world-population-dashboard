@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/world-population-dashboard/static/css/main.fc972086.css",
-    "main.js": "/world-population-dashboard/static/js/main.fe355ae6.js",
+    "main.js": "/world-population-dashboard/static/js/main.528f1da7.js",
     "static/js/787.28cb0dcd.chunk.js": "/world-population-dashboard/static/js/787.28cb0dcd.chunk.js",
     "static/media/population.csv": "/world-population-dashboard/static/media/population.b7a0ce25e69f50acd244.csv",
     "index.html": "/world-population-dashboard/index.html",
     "main.fc972086.css.map": "/world-population-dashboard/static/css/main.fc972086.css.map",
-    "main.fe355ae6.js.map": "/world-population-dashboard/static/js/main.fe355ae6.js.map",
+    "main.528f1da7.js.map": "/world-population-dashboard/static/js/main.528f1da7.js.map",
     "787.28cb0dcd.chunk.js.map": "/world-population-dashboard/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc972086.css",
-    "static/js/main.fe355ae6.js"
+    "static/js/main.528f1da7.js"
   ]
 }
