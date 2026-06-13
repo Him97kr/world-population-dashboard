@@ -7,7 +7,7 @@ export const countriesCategory = {
         "Kyrgyzstan", "Lao People's Democratic Republic", "Lebanon", "Malaysia", "Maldives", "Mongolia",
         "Myanmar", "Nepal", "Oman", "Pakistan", "Philippines", "Qatar", "Republic of Korea", "South Korea",
         "North Korea", "Korea, Republic of", "Saudi Arabia", "Singapore", "Sri Lanka", "State of Palestine", "Palestine",
-        "Syrian Arab Republic", "Syria", "Tajikistan", "Thailand", "Timor-Leste", "Türkiye", "Turkmenistan",
+        "Syrian Arab Republic", "Syria", "Tajikistan", "Thailand", "Timor-Leste", "Türkiye", "Turkey", "Turkmenistan",
         "United Arab Emirates", "Uzbekistan", "Viet Nam", "Vietnam", "Yemen", "Australia", "Fiji", "Kiribati",
         "Marshall Islands", "Micronesia (Federated States of)", "Nauru", "New Zealand", "Palau", "Papua New Guinea",
         "Samoa", "Solomon Islands", "Tonga", "Tuvalu", "Vanuatu", "American Samoa", "Cook Islands",
@@ -37,7 +37,7 @@ export const countriesCategory = {
         "Djibouti", "DR Congo", "Egypt", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Finland",
         "France", "French Southern Territories", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar",
         "Greece", "Guinea", "Guinea-Bissau", "Holy See", "Hungary", "Iceland", "Ireland", "Isle of Man",
-        "Italy", "Jersey", "Kosovo", "Kosovo (under UNSC res. 1244)", "Latvia", "Lesotho", "Liberia", "Libya",
+        "Italy", "Jersey","Kenya", "Kosovo", "Kosovo (under UNSC res. 1244)", "Latvia", "Lesotho", "Liberia", "Libya",
         "Liechtenstein", "Lithuania", "Luxembourg", "Malta", "Moldova", "Monaco", "Montenegro", "Morocco",
         "Mayotte", "Mauritius", "Mozambique", "Namibia", "Netherlands", "Niger", "Nigeria", "North Macedonia", "Norway", "Poland",
         "Portugal", "Rwanda", "Republic of Moldova", "Romania", "Russian Federation", "Russia", "San Marino", "Senegal",
@@ -45,7 +45,7 @@ export const countriesCategory = {
         "Spain", "Sudan", "Sweden", "Switzerland", "Tanzania", "Tanzania, United Republic of", "Tunisia",
         "Ukraine", "United Kingdom", "United Kingdom of Great Britain and Northern Ireland", "Vatican City",
         "Western Sahara", "Åland Islands", "Aland Islands", "Faroe Islands", "Guernsey", "Svalbard and Jan Mayen",
-        "Saint Helena", "British Indian Ocean Territory", "Bouvet Island", "Antarctica",
+        "Saint Helena", "British Indian Ocean Territory", "Bouvet Island", "Antarctica", "Uganda", "Zambia", "Zimbabwe",
         "Heard Island and McDonald Islands", "South Georgia and the South Sandwich Islands"
     ]
 }

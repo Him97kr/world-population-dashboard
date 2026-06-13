@@ -11,7 +11,7 @@ An interactive data visualization dashboard built with **React JS** and **D3.js*
 
 ## 📊 Features
 
-- **Real-time Data** — Population data fetched from [Restcountries API](https://restcountries.com/) on initial load
+- **Real-time Data** — Population data fetched from [Restcountries API](https://restcountries.com/) via jsdelivr CDN on initial load
 - **Historical Data** — Year-wise population data loaded from CSV files
 - **Line Chart** — Visualizes population growth trends over time
 - **Scatter Plot** — Displays Population Growth vs Density Correlation
@@ -95,7 +95,7 @@ world-population-dashboard/
 
 ## 🌐 Data Sources
 
-- **[Restcountries API](https://restcountries.com/)** — Real-time country population data
+- **[Restcountries V5](https://restcountries.com/)** — Real-time country population data via jsdelivr CDN
 - **CSV Files** — Historical population data by year
 
 ---

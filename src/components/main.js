@@ -158,14 +158,15 @@ export const Main = () => {
         setSelectedYear(currentYear);
         document.getElementById('yearSelect').selectedIndex = 0;
 
-        fetch('https://restcountries.com/v4/all?fields=name,density,population')
+        fetch('https://cdn.jsdelivr.net/gh/Him97kr/rest-countries-data/allcountries.json')
             .then(response => response.json())
             .then(data => {
-                const tempData = data.map((d, i) => {
+                const tempData = data.countryData.map((d, i) => {
+                    const density = d?.population && d?.area?.kilometers ? Math.round(d?.population / d?.area?.kilometers) * 100 / 100 : 0;
                     return {
-                        'Country': d?.name?.common,
+                        'Country': d?.names?.common,
                         'Year': currentYear,
-                        ' Population_Density ': d?.density?.toString(),
+                        ' Population_Density ': density?.toString(),
                         ' Population (000s) ': convertNumberToThousand(d?.population),
                         ' Population_Growth_Rate ': '0'
                     }
